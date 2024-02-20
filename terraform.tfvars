@@ -25,8 +25,8 @@ subnet_nonexpose_c = "subnet-030aba390ae27a2e8"
 subnet_secure_b    = "subnet-0c89eeb50f9f70ca8"
 subnet_secure_c    = "subnet-0165be28588d27066"
 
-# ec2_instance_image = "ami-0736ccda425a0af91" # Tec-MasterImage-20230821
-# ec2_instance_type  = "t3.medium"
+ec2_instance_image = "ami-07a6e3b1c102cdba8" 
+ec2_instance_type  = "t2.micro"
 
 # aurora_version              = "8.0.mysql_aurora.3.04.0"
 # aurora_master_username      = "admin"

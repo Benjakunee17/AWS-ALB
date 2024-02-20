@@ -1,6 +1,6 @@
 
 # /**
-#  * Create By : Sarun Thepnamwong
+#  * Create By : Benja kuneepong
 #  * Date : Fri Aug 11 10:00:00 +07 2023
 #  * Purpose : ประกาศว่าใช้ terraform version อะไรสำหรับ provider
 #  */
@@ -13,7 +13,7 @@
    }
  }
 /**
- * Create By : Sarun Thepnamwong
+ * Create By : Benja kuneepong
  * Date : Fri Aug 11 10:00:00 +07 2023
  * Purpose : สร้าง bucket สำหรับเก็บ state ของ terraform
  */
@@ -28,7 +28,7 @@
 #   }
 # }
 /**
- * Create By : Sarun Thepnamwong
+ * Create By : Benja kuneepong
  * Date : Fri Aug 11 10:00:00 +07 2023
  * Purpose : กำหนด provider information
  */
